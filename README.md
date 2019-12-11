@@ -2,7 +2,9 @@
 > 该项目仅供测试交流，请勿用于违法、商业等行为  
 
 ## 预览  
-![预览](art/screencast.webm)
+![截图](art/screenshot.png)  
+
+[视频](art/screencast.webm)
 
 ## Licenses
 ```
